@@ -1,0 +1,52 @@
+.uno{
+	background-color: #4682B4;
+}
+.imagenuno{
+	width: 80%;
+}
+li{
+	list-style: none;
+	padding: 15px;
+	margin-top: 50px;
+}
+a{
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	margin-left: 40px;
+
+}
+.col-6.datos{
+	background-color: #008080;
+}
+.textouno{
+	margin-top: 30px;
+}
+.imagendos{
+	 width:300px;
+    height:300px;
+    border-radius:150px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+h1{
+	margin-top: 40px;
+	text-align: center;
+}
+
+ 
+#uno:hover {
+  background: blue;
+}
+#dos:hover {
+  background: purple;
+}
+#tres:hover {
+  background: brown;
+}
+#cuatro:hover {
+  background: turquoise;
+}
+ 
+
